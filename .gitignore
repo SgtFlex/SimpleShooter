@@ -47,8 +47,8 @@ Binaries/*
 Build/*
  
 # Marketplace
-AssetPacks/*
-StarterContent/*
+Content/AssetPacks/*
+Content/StarterContent/*
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
