@@ -7,6 +7,7 @@
 #include "ShooterCharacter.generated.h"
 
 class AGun;
+class APlayerController;
 
 UCLASS()
 class SIMPLESHOOTER_API AShooterCharacter : public ACharacter
